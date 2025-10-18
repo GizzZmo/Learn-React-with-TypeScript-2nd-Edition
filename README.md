@@ -23,7 +23,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/Learn-R
 
 This repository includes comprehensive documentation to help you learn and use the examples:
 
-- **[QUICK_START.md](QUICK_START.md)** - Get started quickly with step-by-step instructions
+- **[QUICK_START.md](QUICK_START.md)** - Get started quickly with installation, running examples, and troubleshooting
 - **[EXAMPLES.md](EXAMPLES.md)** - Complete guide to all examples in this repository
 - **Chapter READMEs** - Detailed documentation for each chapter (see below)
 
@@ -37,7 +37,7 @@ New to the repository? Start here:
 
 ### Prerequisites
 
-- Node.js (v16 or later)
+- Node.js (v16.0.0 or later)
 - npm or yarn
 - Basic knowledge of JavaScript and HTML/CSS
 
@@ -170,7 +170,7 @@ Found an issue or have a suggestion? Contributions are welcome!
 - **TypeScript Documentation**: https://www.typescriptlang.org
 - **React Router**: https://reactrouter.com
 - **Redux Toolkit**: https://redux-toolkit.js.org
-- **React Query**: https://tanstack.com/query
+- **TanStack Query (React Query)**: https://tanstack.com/query
 - **Testing Library**: https://testing-library.com
 
 ### Related products
