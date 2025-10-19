@@ -159,7 +159,7 @@ We welcome contributions to improve the examples and documentation! Here's how y
 **Pages**: 474
 
 ### What's New in the Second Edition
-- Updated for React 18 with Concurrent Features
+- Updated for React 18 with concurrent features
 - Coverage of TypeScript 4.7+ features
 - Modern hooks patterns and best practices
 - React Query for data fetching
